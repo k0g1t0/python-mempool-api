@@ -66,7 +66,7 @@ This Python package is your trusty sidekick in the quest for Bitcoin knowledge.
     - ***AUD***
     - ***JPY***
 
-- **Time frames**: for every method where a timeframe is required here are the supported one `24h`, `3d`, `1w`, `1m`, `3m`, `6m`, `1y`, `2y`, `3y`
+- **Time frames**: for every method where a time frame is required here are the supported one `24h`, `3d`, `1w`, `1m`, `3m`, `6m`, `1y`, `2y`, `3y`
 
 ## How To Use
 
@@ -85,7 +85,7 @@ from mempool import <class>
 2. **Create an object**
 
 ```
-obj = <class()>
+obj = <class>
 ```
 
 3. **Access the methods (the full list is available [here](#methods))**
