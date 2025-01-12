@@ -100,7 +100,7 @@ obj.<method>
 Congratulations! You've just unlocked the secret to effortlessly fetching Bitcoin data without needing a PhD or a magic crystal ball.  
 This script is like your friendly neighborhood Bitcoin butler—ready to serve up various topics around the Bitcoin world with just a few lines of code.
 
-Whether you're trying to impress your friends with your newfound knowledge or just want to keep an eye on your digital treasure, this script has got your back.  
+Whether you're trying to impress your friends with your newfound knowledge or just want to keep an eye on your digital treasure, this package has got your back.  
 So go ahead, tinker with it, and remember: in the world of Bitcoin, the only thing more volatile than the price is your coffee consumption while you watch the charts.
 
 If you encounter any issue or would like to participate in the development of this package, feel free to DM me  
