@@ -103,7 +103,10 @@ This script is like your friendly neighborhood Bitcoin butler—ready to serve u
 Whether you're trying to impress your friends with your newfound knowledge or just want to keep an eye on your digital treasure, this script has got your back.  
 So go ahead, tinker with it, and remember: in the world of Bitcoin, the only thing more volatile than the price is your coffee consumption while you watch the charts.
 
-If you encounter any issue or would like to participate in the development of this package, feel free to DM me on [X.com](https://x.com/k0g1t0?s=11)
+If you encounter any issue or would like to participate in the development of this package, feel free to DM me  
+
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fk0g1t0&style=social&label=k0g1t0)](https://x.com/k0g1t0)
+
 
 Happy coding!
 
